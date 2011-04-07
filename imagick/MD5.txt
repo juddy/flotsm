@@ -1,0 +1,16 @@
+/HomePage/ImageMagick/im-hax-1-13/im-hax-annotate-1.cgi: d9e6358ebb91f3d0d4b76cea5aa0c29c
+/HomePage/ImageMagick/im-hax-1-13/im-hax-border-1.pl: 3288fa66ea571b1a152a2b23856eec44
+/HomePage/ImageMagick/im-hax-1-13/im-hax-composite-1.pl: bd6ab59a97f88826f079910845a09f87
+/HomePage/ImageMagick/im-hax-1-13/im-hax-composite-2.pl: 3688f3c16b30b3eac824a784671444cd
+/HomePage/ImageMagick/im-hax-1-13/im-hax-contrast-1.pl: dfaf2e7ca9837103073585b29dfdabcc
+/HomePage/ImageMagick/im-hax-1-13/im-hax-crop-1.cgi: 2442f6a65083dce8014861cd7213b0fb
+/HomePage/ImageMagick/im-hax-1-13/im-hax-gradient-1.cgi: 632b1f3ae2c9ba940aca28053ba58e27
+/HomePage/ImageMagick/im-hax-1-13/im-hax-image2blob-1.cgi: a3eabcb6b87dd7a96c652f78a42ebc5f
+/HomePage/ImageMagick/im-hax-1-13/im-hax-menu.cgi: a7dfc05b19d174382c2a9a74cd7e1785
+/HomePage/ImageMagick/im-hax-1-13/im-hax-montage-1.pl: b1f4553b7dd6d720fa678c3136289405
+/HomePage/ImageMagick/im-hax-1-13/im-hax-png2jpg-1.pl: 700c7715e9e40bdbde714c5be55d0c05
+/HomePage/ImageMagick/im-hax-1-13/im-hax-rotate-1.pl: 5b2a10b75a1095ea2c48f14a6f0f4122
+/HomePage/ImageMagick/im-hax-1-13/im-hax-transparent-1.pl: 42884d85909ff118850885aa9de2ee69
+/HomePage/ImageMagick/im-hax-1-13/im-hax-visible-watermark-1.pl: 403e32b33a6c1c61ff0f8a546f85e743
+/HomePage/ImageMagick/im-hax-1-13/licence.txt: b1dc656571b06187574df689f8a7f747
+/HomePage/ImageMagick/im-hax-1-13/readme.txt: 897e5132c07c987f53f467dd647a9fca
